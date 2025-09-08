@@ -1,16 +1,75 @@
-<h1 align="center">Hi 👋, I'm Karam Rasheed</h1>
-<h5 align="center">I am a skilled Flutter developer with experience in building mobile applications. I’m passionate about creating clean, efficient code and continuously expanding my knowledge in both frontend and backend development. If you ask me something I don't know, I won't just say “I don't know” I’ll tell you how long it'll take me to figure it out. There’s nothing I can’t learn.</h3>
+<div align="center">
+
+# 🌟 Karam Rasheed
+
+### Flutter Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Mobile+App+Specialist;Cross-Platform+Expert;UI%2FUX+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+### 💼 Portfolio: [karamdev.me](https://karamdev.me)
+
+[![Portfolio Preview](https://img.shields.io/badge/🌐_Visit_Portfolio-karamdev.me-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://karamdev.me)
+</div>
 
 
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karam-rasheed-2687a2285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karam-rasheed-2687a2285/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/karam2v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/karam2v/" height="30" width="40" /></a>
-<a href="https://discord.gg/karam_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karam_2004" height="30" width="40" /></a>
-</p>
+👋 **Hello! I'm Karam Rasheed**, a passionate Flutter developer who loves creating beautiful and functional mobile applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+🎯 **What I Do**: I specialize in building cross-platform mobile apps using Flutter and Dart, focusing on creating seamless user experiences across iOS and Android platforms.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karamiq&show_icons=true&locale=en&layout=compact" alt="karamiq" /></p>
+📱 **My Passion**: Mobile development excites me because it allows me to bring ideas to life in the palm of users' hands. I enjoy crafting intuitive interfaces and solving complex problems through elegant code.
+
+🌱 **Currently Learning**: I'm always expanding my knowledge in advanced Flutter patterns, state management solutions, NestJS for backend development, and exploring new technologies in the mobile development ecosystem.
+
+💡 **Let's Collaborate**: I'm open to working on interesting projects, contributing to open source, and connecting with fellow developers who share my passion for mobile technology.
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/70729930199859201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karam-rasheed-2687a2285)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karam2v)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/karam_rasheed/)
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Backend Development
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📫 Get In Touch
+
+<div align="center">
+
+**Ready to build something amazing together? Let's connect!**
+
+📧 **Email**: fs58fryfbyqc@example.com  
+💼 **Portfolio**: https://karamdev.me  
+💬 **Open to**: Collaboration, Freelance, Tech Talks
+
+---
+
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+</div>
